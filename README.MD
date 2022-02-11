@@ -13,3 +13,5 @@ It's also packageable into a single executable with `pyinstaller`. Just run:
 ```
 pyinstaller --onefile --add-data "input.csv:." demo_script.py
 ```
+
+`input.csv` - This sample data came from [Crowdflower's Data for Everyone library](https://www.kaggle.com/crowdflower/twitter-airline-sentiment?select=Tweets.csv)
