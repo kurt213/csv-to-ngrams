@@ -1,0 +1,1 @@
+pyinstaller --onefile --add-data "input.csv:." demo_script.py
